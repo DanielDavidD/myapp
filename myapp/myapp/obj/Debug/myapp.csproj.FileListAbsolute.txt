@@ -1,0 +1,9 @@
+C:\Users\Daniel David\source\repos\myapp\myapp\bin\Debug\myapp.exe.config
+C:\Users\Daniel David\source\repos\myapp\myapp\bin\Debug\myapp.exe
+C:\Users\Daniel David\source\repos\myapp\myapp\bin\Debug\myapp.pdb
+C:\Users\Daniel David\source\repos\myapp\myapp\obj\Debug\myapp.csprojAssemblyReference.cache
+C:\Users\Daniel David\source\repos\myapp\myapp\obj\Debug\myapp.Form1.resources
+C:\Users\Daniel David\source\repos\myapp\myapp\obj\Debug\myapp.Properties.Resources.resources
+C:\Users\Daniel David\source\repos\myapp\myapp\obj\Debug\myapp.csproj.GenerateResource.cache
+C:\Users\Daniel David\source\repos\myapp\myapp\obj\Debug\myapp.exe
+C:\Users\Daniel David\source\repos\myapp\myapp\obj\Debug\myapp.pdb
